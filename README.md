@@ -1,1 +1,1 @@
-# Previsao_de_Lucro_por_Acao_com_Rede_neural_LSTM
+# Previsao_de_Lucro_por_Acao_com_Rede_Neural_LSTM
